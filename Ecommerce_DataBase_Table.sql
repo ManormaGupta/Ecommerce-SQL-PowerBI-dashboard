@@ -1,3 +1,4 @@
+create database Ecommerce_db;
 use Ecommerce_db;
 create table customers(
 customer_id int auto_increment primary key,

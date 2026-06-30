@@ -84,6 +84,8 @@ The Power BI dashboard includes:
 I am an aspiring Business Analyst with a background in Life Sciences, currently building hands-on projects in SQL, Power BI, and Python ahead of starting an MBA in Business Analytics and IT. This project reflects my approach to solving business problems end-to-end, from database design to actionable visual insights.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/) or check out more of my work on [GitHub](https://github.com/ManormaGupta).
+<img width="1218" height="680" alt="Screenshot 2026-06-30 054854" src="https://github.com/user-attachments/assets/e2e3695b-1bee-4c75-a6a5-dfc08cd06339" />
+
 
 ## Tools Used
 
